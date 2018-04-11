@@ -1,0 +1,13 @@
+{
+  "name": "foosball-chain-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "Tomasz Cichowicz",
+  "license": "MIT",
+  "dependencies": {
+    "zeppelin-solidity": "^1.8.0"
+  }
+}
